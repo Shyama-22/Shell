@@ -1,0 +1,2 @@
+readme->for running the program just type make main and ./main.for this assignment,
+i am checking all the errors that a system function returns.
